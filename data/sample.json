@@ -1,0 +1,12 @@
+{
+  "project": "receipt-expense-ai",
+  "resource": "receipts",
+  "samples": [
+    {
+      "id": "rc1",
+      "merchant": "Cafe",
+      "total": 12.5,
+      "category": "meals"
+    }
+  ]
+}
